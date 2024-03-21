@@ -1,4 +1,4 @@
-# PCA
+# Principal Component Analysis
 ## Breast Cancer Diagnosis Prediction using PCA
 
 This repository contains Python code for dimensionality reduction and visualization of the Breast Cancer Wisconsin (Diagnostic) dataset using Principal Component Analysis (PCA). The aim is to facilitate the visualization of high-dimensional data in a two-dimensional space to observe patterns and potentially aid in cancer diagnosis prediction.
